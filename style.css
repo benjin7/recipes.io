@@ -1,0 +1,53 @@
+
+* {
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+body {
+    background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
+    height: 100vh;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.row {
+    position: relative;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-around;
+}
+
+.momo {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.chowmein {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.chicken {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+
+
